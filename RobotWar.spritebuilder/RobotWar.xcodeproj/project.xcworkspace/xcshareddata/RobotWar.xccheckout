@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C8F84058-D5A6-447A-A71C-CB34B7E6903F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RobotWar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16F3CD2B-D0D7-41C4-937A-385ED1E189D4</key>
+		<string>https://github.com/Samiam519/robotwar</string>
+		<key>1712B3B8-1E2F-4814-B775-5A0BD34BE77A</key>
+		<string>https://github.com/MakeGamesWithUs/RobotWar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RobotWar.spritebuilder/RobotWar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16F3CD2B-D0D7-41C4-937A-385ED1E189D4</key>
+		<string>../../..</string>
+		<key>1712B3B8-1E2F-4814-B775-5A0BD34BE77A</key>
+		<string>../../../../../../RobotWar</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Samiam519/robotwar</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16F3CD2B-D0D7-41C4-937A-385ED1E189D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16F3CD2B-D0D7-41C4-937A-385ED1E189D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>robotwar</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1712B3B8-1E2F-4814-B775-5A0BD34BE77A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RobotWar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
