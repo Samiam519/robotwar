@@ -44,6 +44,7 @@
 		B77F1B4217B978D7009739AE /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B4117B978D7009739AE /* CoreText.framework */; };
 		BC7636FB195BBCAA0070222B /* SimpleRobot.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7636F9195BBCAA0070222B /* SimpleRobot.m */; };
 		BCA5F346195BD4DA00F1A2DF /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCA5F345195BD4DA00F1A2DF /* GLKit.framework */; };
+		F2C66CD519662947003E2B19 /* WinningBot.m in Sources */ = {isa = PBXBuildFile; fileRef = F2C66CD419662947003E2B19 /* WinningBot.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +118,8 @@
 		BC7636F8195BBCAA0070222B /* SimpleRobot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SimpleRobot.h; path = Source/Robot/SimpleRobot.h; sourceTree = "<group>"; };
 		BC7636F9195BBCAA0070222B /* SimpleRobot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SimpleRobot.m; path = Source/Robot/SimpleRobot.m; sourceTree = "<group>"; };
 		BCA5F345195BD4DA00F1A2DF /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		F2C66CD21966293B003E2B19 /* WinningBot.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = WinningBot.h; path = ../../../../RobotWar/RobotWar.spritebuilder/Source/WinningBot.h; sourceTree = "<group>"; };
+		F2C66CD419662947003E2B19 /* WinningBot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WinningBot.m; path = ../../../../RobotWar/RobotWar.spritebuilder/Source/WinningBot.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +151,8 @@
 				65CC9159196141CF00838899 /* TurretRobot.m */,
 				BC7636F6195BBCAA0070222B /* AdvancedRobot.h */,
 				BC7636F7195BBCAA0070222B /* AdvancedRobot.m */,
+				F2C66CD21966293B003E2B19 /* WinningBot.h */,
+				F2C66CD419662947003E2B19 /* WinningBot.m */,
 				BC7636F8195BBCAA0070222B /* SimpleRobot.h */,
 				BC7636F9195BBCAA0070222B /* SimpleRobot.m */,
 			);
@@ -394,6 +399,7 @@
 				65CC915A196141CF00838899 /* TurretRobot.m in Sources */,
 				62C4F430194141DE0047553C /* Helpers.m in Sources */,
 				62E3A32419397BE400BD3F0F /* RobotAction.m in Sources */,
+				F2C66CD519662947003E2B19 /* WinningBot.m in Sources */,
 				62E3A330193D3F3B00BD3F0F /* Bullet.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
